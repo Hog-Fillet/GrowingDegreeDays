@@ -1,2 +1,2 @@
 # GrowingDegreeDays
-# Particle.io Argon IoT device using DS18 temp
+Particle.io Argon IoT device using DS18 temp
