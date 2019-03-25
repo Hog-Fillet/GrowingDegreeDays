@@ -9,7 +9,7 @@ DS18 sensor(D13);
 
 // ThingSpeak Channel Number and API Key
 // **Should change this to be more secure
-unsigned long myChannelNumber = 731708;	// change this to your channel number
+unsigned long myChannelNumber = XXXXX;	// change this to your channel number
 const char * myWriteAPIKey = "XXXXXXXXXXXXXXXX"; // ThingSpeak channel write API key
 const char * myReadAPIKey = "XXXXXXXXXXXXXXXX"; // ThingSpeak channel read API key
 float low_temp = 100.0;
