@@ -9,12 +9,12 @@ DS18 sensor(D13);
 
 // ThingSpeak Channel Number and API Key
 // **Should change this to be more secure
-unsigned long myChannelNumber = 731708;	// change this to your channel number
-const char * myWriteAPIKey = "Q2WWASR90N0ZWSJZ"; // ThingSpeak channel write API key
-const char * myReadAPIKey = "YH6WIXPDH088X7GO"; // ThingSpeak channel read API key
-const char * Xenon1 = "e00fce68bc89905817e6c21b";
-const char * Xenon2 = "e00fce68a9eef5d55b0660da";
-const char * Argon = "e00fce68348df9102e2d42b6";
+unsigned long myChannelNumber = 00000;	// change this to your channel number
+const char * myWriteAPIKey = "XYZABC"; // ThingSpeak channel write API key
+const char * myReadAPIKey = "DEFRST"; // ThingSpeak channel read API key
+const char * Xenon1 = "XXXX1";
+const char * Xenon2 = "XXXX2";
+const char * Argon = "AAAA1";
 
 float low_temp = 100.0;
 float high_temp = 0.0;
